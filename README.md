@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karolina!</h1>
 <h3 align="center">A computer science student, learning programming from Brazil!</h3>
 
-- 🔭 I’m currently working on **Python, Django and Java**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **backend and a little bit of frontend.**
 
