@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP, Java, Python, JS...**
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Java**
 
 - 🤝 I’m looking for help with **with my codes (they still suck)**
 
