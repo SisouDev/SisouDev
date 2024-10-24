@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Back end**
 
-- 🌱 I’m currently learning **PHP, Java, Python, JS...**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to collaborate on **Java or Python**
 
 - 🤝 I’m looking for help with **with my codes (they still suck)**
 
