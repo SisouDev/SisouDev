@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Karolina</h1>
 <h3 align="center">Computer Science student passionate about backend development and technology, from Brazil 🇧🇷</h3>
 
-- 🎓 I'm in the final year of **B.Sc. in Computer Science** at Estácio de Sá and also studying **Lic. in Computer Science** at UFJF
+- 🎓 I'm in the final year of **B.Sc. in Computer Science** at UNESA and also studying **Lic. in Computer Science** at UFJF
 - 🧠 I'm focused on **Java and Spring**, but also coding with **Python, JavaScript and Django**
 - 💡 Constantly improving my skills in backend development, data analysis and database management
 - 🤝 I'm looking to collaborate on backend projects using **Java, Spring or Python**
