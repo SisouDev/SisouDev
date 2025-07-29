@@ -35,6 +35,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SisouDev&layout=compact&langs_count=6&theme=tokyonight" alt="Top languages" />
+</p>
+
 
 ---
 
