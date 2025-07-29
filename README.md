@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SisouDev&show_icons=true&theme=dracula)
+
 
 ---
 
