@@ -37,10 +37,16 @@
 
 ---
 
+---
+
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SisouDev&layout=compact&langs_count=6&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SisouDev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 
